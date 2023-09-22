@@ -1,5 +1,5 @@
-<h2><img src="https://github.com/Charmve/Charmve/blob/master/src/assert/hellokittydance.gif" style="width:50px;height:50px">欢迎来到柴的GitHub</h2>
-
+<h2><img src="images/hellokittydance.gif" style="width:50px;height:50px">欢迎来到柴的GitHub</h2>
+![github-contribution-grid-snake.svg](images%2Fgithub-contribution-grid-snake.svg)
 
 - 🔭 JAVA开发攻城狮、当然前端内容也略知一二
 - 👀 正在关注：社区网站的开发
