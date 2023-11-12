@@ -1,4 +1,4 @@
-<h2><img src="images/hellokittydance.gif" style="display:inline;width:50px;height:50px"/><span>欢迎来到柴的GitHub</span></h2>
+<h2><img src="images/hellokittydance.gif" style="display:inline !important;width:50px;height:50px"/><span>欢迎来到柴的GitHub</span></h2>
 
 ![github-contribution-grid-snake.svg](images/github-contribution-grid-snake.svg)
 
