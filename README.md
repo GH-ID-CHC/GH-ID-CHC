@@ -11,6 +11,10 @@
 ## 最新战报
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GH-ID-CHC&count_private=true&show_icons=true&locale=cn&bg_color=DEG,73FA7A,73FDFE,D683FF)
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-ID-CHC)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!--
 <a href="https://github.com/GH-ID-CHC/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH-ID-CHC&repo=yygh" />
 </a>
