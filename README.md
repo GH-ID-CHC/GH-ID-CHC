@@ -1,6 +1,7 @@
 <h2><img src="images/hellokittydance.gif" style="display:inline !important;width:50px;height:50px"/><span>欢迎来到我的GitHub</span></h2>
 
-![github-contribution-grid-snake.svg](images/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/GH-ID-CHC/GH-ID-CHC/output/github-contribution-grid-snake.svg)
+
 
 - 🔭 JAVA开发攻城狮、当然前端内容也略知一二
 - 👀 正在关注：社区网站的开发
